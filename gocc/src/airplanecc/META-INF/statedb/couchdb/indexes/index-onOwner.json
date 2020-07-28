@@ -1,0 +1,8 @@
+{
+  "index": {
+    "fields": ["ownerOrg"]
+  },
+  "ddoc": "indexOnOwner",
+  "name": "indexOnOwner",
+  "type": "json"
+}
