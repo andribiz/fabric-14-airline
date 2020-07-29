@@ -1,0 +1,8 @@
+{
+  "index": {
+    "fields": ["docType", "partnerID"]
+  },
+  "ddoc": "indexPartnerDoc",
+  "name": "indexPartner",
+  "type": "json"
+}
